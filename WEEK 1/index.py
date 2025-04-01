@@ -1,6 +1,6 @@
 print("Hello world")
 
-number = 10
+number = 6
 print(number)
 
 
